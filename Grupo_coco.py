@@ -159,8 +159,8 @@ st.write("🐾 Por otro lado, los números en mapudungun se forman de manera sim
 
 ## librería
 
-i = Image.open('tamipa.jpg')
-st.image(i)
+#i = Image.open('tamipa.jpg')
+#st.image(i)
 
 ## opciones
 options = st.multiselect(
